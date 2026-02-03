@@ -1,16 +1,52 @@
-## Hi there 👋
+# Andrii Boyvan — Full-Stack Web Developer
 
-<!--
-**AnBoyvan/AnBoyvan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build **business tools**, not just websites.
 
-Here are some ideas to get you started:
+My focus is **Next.js applications, AI integrations, and workflow automation** that help companies structure work, reduce manual operations, and ship faster.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Core Stack
+
+- Next.js / React / TypeScript
+- TailwindCSS / shadcn/ui
+- Node.js / API / Auth / DB
+- n8n / automation / AI workflows
+- PostgreSQL / Drizzle ORM / Neon
+
+---
+
+## 🚀 Highlight Projects
+
+### 🤖 Aivirio — AI + Automation Toolkit *(live)*
+Collection of AI workflows and automations for real business scenarios using n8n, APIs and LLM tools.
+
+> Focus: process automation, AI integration, business value
+
+Repo: https://github.com/AnBoyvan/aivirio
+
+---
+
+## 💼 What I Do
+
+I help businesses:
+
+- Turn chaotic processes into structured systems
+- Replace manual work with automation
+- Build internal tools and SaaS products
+- Integrate AI into real workflows
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/AnBoyvan
+- LinkedIn: https://www.linkedin.com/in/andrii-boyvan-50332a389/
+- Portfolio: (soon)
+
+---
+
+## 📌 Philosophy
+
+Good software is not about features.  
+It’s about **reducing complexity for people who use it**.
