@@ -18,10 +18,10 @@ My focus is **Next.js applications, AI integrations, and workflow automation** t
 
 ## 🚀 Highlight Projects
 
-### 🤖 Aivirio — AI + Automation Toolkit *(live)*
-Collection of AI workflows and automations for real business scenarios using n8n, APIs and LLM tools.
-
-> Focus: process automation, AI integration, business value
+### Aivirio — AI + Automation Toolkit *(live)*
+Aivirio — AI-powered, browser-first web development workspace.
+A demo project showcasing how AI-assisted code editing, GitHub integration, and in-browser runtimes can be combined for rapid prototyping, live previews, and minimal setup friction.
+Focused on architecture, integrations, and product thinking behind modern AI-driven developer tools.
 
 Repo: https://github.com/AnBoyvan/aivirio
 
