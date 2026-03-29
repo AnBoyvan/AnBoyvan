@@ -31,11 +31,13 @@ A demo project showcasing how to build a modern organization tool with role-base
 Focused on architecture, multi-tenancy patterns, and scalable data modeling for team collaboration products.
 Repo: https://github.com/AnBoyvan/axyron
 
+
 ### SynthMeet
 SynthMeet — AI-powered meeting platform with transcription and summaries.
 A demo project showcasing how to combine real-time video calls, automatic transcription, AI-generated meeting summaries, and conversational agents in a single product.
 Focused on AI integrations, real-time infrastructure, and billing-aware feature gating.
 Repo: https://github.com/AnBoyvan/synth-meet
+
 
 ### Syntrix
 Syntrix — web-based text-to-speech platform with custom voice creation.
@@ -43,11 +45,13 @@ A demo project showcasing metered billing, organization-based access control, an
 Focused on SaaS architecture, usage-based pricing, and AI model integration in production.
 Repo: https://github.com/AnBoyvan/syntrix
 
+
 ### Veetube
 Veetube — full-stack video sharing platform.
 A demo project showcasing AI-powered content generation, real-time video streaming with Mux, and community engagement features built on Next.js and tRPC.
 Focused on video infrastructure, scalable media handling, and modern full-stack architecture.
 Repo: https://github.com/AnBoyvan/veetube
+
 
 ### Taskronic
 Taskronic — Kanban-based task manager with real-time sync.
